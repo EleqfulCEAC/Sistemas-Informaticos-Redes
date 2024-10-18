@@ -1,0 +1,10 @@
+Calculo de n de host de cada red
+
+2^n - 2 = nº Host ; 2^6 - 2 = N host; 64 -2 = 62; Nº de host= 62
+
+Calculo de salto de red: 
+
+256 = (255 + 0) = 256 -192 = 64 El salto sera de 64 entre 64 
+
+Tabla de reparto de redes 
+
