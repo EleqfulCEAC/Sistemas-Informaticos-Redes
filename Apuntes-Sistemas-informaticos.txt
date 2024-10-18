@@ -1,0 +1,49 @@
+Apuntes de sistemas informaticos Clase 1º: 
+
+
+Factor de forma en los sistemas: el tamaño que tiene la placa y la forma que tiene, poseen tamaños estandares generales
+
+Elementos de una placa base: 
+		- Conectores PCI Express: 
+		- Slots de Expansion: 
+		- Conector ATX: Puede tener entre 20 y 24 pines, se encarga de la fuente de alimentacion 
+		- Conectores SATA: Conectan los componentes que tengan la conexion sata (disco duro, lector dvd)
+		- Jumpers del panel frontal: Envian señales a las luces, botones de la maquina
+
+		- BIOS: Contiene la informacion del ordenador y se comprueba al iniciar el ordenador, contiene una plantilla que te enseña los conceptos almacenados
+					-Entre estas informaciones: Temperatura del ordenador, overclock del procesador, orden de arranque, 
+		- Conectores de la memoria RAM (Random Access Memory): Almacena el contenido del ordenador encencido, al apagar el ordenador se pierde la data dentro de ella
+		- Conector de la tarjeta de video 
+		- Zocalo del microprocesador: Es un componente muy importante, los contactos son bastante sensibles al tacto. 
+		- Conector VGA (DB15): Numero de pines que tiene el contacto (15) Señal analogica 
+		- Conector DVI: 
+		- Conector HDMI:
+		- Conectores de PS2 o MiniDIN: Para teclados y ratones antiguos 
+		- Conector auxiliar del Microprocesador: Envia energia auxiliar y extra al microprocesador para que funcione mejor y de manera mas eficiente, ademas de que si no esta conectado no funciona.
+		-   
+			
+
+Topologias de red: 
+
+	- Estrella, anillo, malla.
+
+	- Switch: 
+
+
+		Red en Anillo:
+			- Circunferencia, con ordenadores conectados a ella, con dos lineas de comunicacion en ambos sentidos (topologia en deshuso)
+			- Se necesita un MAU que hace la funcion de switch interconecta los distintos ordenadores a a traves de la red. 
+			- Si se rompe la conexion en uno de los ordenadores la conexion se interrumpe en un sentido
+
+
+		Red en malla: 
+			- Es una red mas costosa por toda la infraestructura empleada, recursos materiales, etc segun la longitud de la red. 
+			- Al romperse una linea de union de la red se pueden seguir intercontectando los ordenadores a traves de los otros mediante las otras conexioenes
+			- Su objetivo principal es la estabilidad de la red en general, incluso si se sacrifica un poco el rendimiento si se produce una caida de conexion _
+			
+
+		Red en Bush: 
+			- De las primeras estructuras de redes que existieron 
+			- Consiste de una linea unica de cable en la cual se interconectan los equipos
+			- Depende exclusivamente de un cable principal que envia la conexion a los ordenadores, dejando asi, imposible la conexion si el cable principal es dañado 
+			- Poca seguridad en cuanto el envio de informacion  

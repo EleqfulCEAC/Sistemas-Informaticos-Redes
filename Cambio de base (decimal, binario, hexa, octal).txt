@@ -1,0 +1,16 @@
+ Para cambiar de decimal a otra base: se divide numero entre la base y se toma el ultimo cosiente y todos los restos que se hayan tenido por el camino *posible examen* 
+
+ Siempre hay que decir en que base nos encontramos para poder saber que operacion vamos a realizar. 
+
+
+
+ ¿Cual es la mejor forma? 
+    - Haciendo ejercicios de cambio de base, por internet hay ejercicios, buscar ejercicios de cambio de base en internet 
+
+Conversion directa: 
+
+Solo con numeros que sean potencia entre si mismo, conversion directa significa que se puede hacer la operacion directa tomando como referencia los valores en decimal, en este caso solo se puede de binario a octal o binario a hexa. 
+ se toma los valors de la potencia para realizar la operacion, en el caso de octal seria el 3 (elevado al cubo) y hexadecimal (16) seria el 4 
+
+
+ 

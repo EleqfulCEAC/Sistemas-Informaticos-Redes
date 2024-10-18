@@ -1,0 +1,6 @@
+PLANIFICACION Y SISTEMAS DE REDES 
+
+2- Arquitectura de red 
+
+        Protocolos de red: 
+            Tiene distintas capas: Apllicacion, TCP, IP, Drive Ethernet, Ethernet 

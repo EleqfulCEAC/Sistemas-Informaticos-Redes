@@ -1,0 +1,36 @@
+Apuntes de Entornos de desarrollo Clase 1º
+
+-----Estudiar conceptos directo del pdf de cara al examen. 
+
+----- Distintas fases de desarrollo de un programa: 
+
+----- Lenguaje de alto nivel: Lenguajes que se comunican con la maquina en lenguaje propio del humano (normalmente ingles)
+------Lenguaje de bajo nivel: Lenguajes que se comunican directamente en la forma de la maquina (sistema binario, etc) 
+
+	Conceptos de interprete y compilador: fase necesaria para que la maquina entienda un lenguaje de alto nivel. 
+		Interprete: Analiza linea a linea y traduce una por una mientras la anterior sea correcta 
+		Compilador: Analaiza en bloques, detecta errores sintacticos (errores de sintaxis del programa), Avisa del error especifico y donde para modificarlo. 
+
+
+			Fases de un programa: 
+				Creacion del codigo fuente
+				Compilacion 
+				Creacion del fichero obj, añadimos modulos, añadimos librerias
+				Programa ejecutable. 
+
+------ Codigo obj: Es un programa que esta en un 
+
+------ Representacion grafica de un programa: Se hace mediante un diagrama de flujo 
+
+	Diagrama de flujo: 
+			Tiene que estar definido claramente el inicio y el final del programa
+			Declaracion de variables y constantes
+			Inicializacion de Variables (Las variables reflejan una posicion de memoria donde hay algun dato almacenado cuyo contenido puede variar como resultado de alguna operacion.)
+			
+			
+			
+			
+			
+		
+		
+	

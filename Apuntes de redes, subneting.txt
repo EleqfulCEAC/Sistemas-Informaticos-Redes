@@ -1,0 +1,10 @@
+Antes del subneting hay que saber: 
+
+
+    Clases de direcciones IP: 
+
+        - Clase A => 0.0.0.0 -> 127.255.255.255 
+        - Clase B => 
+        - Clase C =>
+        - Clase D =>
+        - Clase E =>

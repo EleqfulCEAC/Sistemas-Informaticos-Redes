@@ -1,0 +1,7 @@
+Tipos redes: 
+
+-- RED PAN: 
+        
+
+-- Multiplexacion   // buscar
+-- Demultiplexacion // buscar
