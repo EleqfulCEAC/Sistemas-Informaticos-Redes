@@ -4,7 +4,19 @@ Antes del subneting hay que saber:
     Clases de direcciones IP: 
 
         - Clase A => 0.0.0.0 -> 127.255.255.255 
-        - Clase B => 
-        - Clase C =>
+        - Clase B => En una direccion ip cuando comienza por 10 significa que es una direccion ip de clase B (Tiene una direccion especial, denominada APIPA  que comienza 169.254.x.x) el rango de ips comprendido es entre la 127-192
+        - Clase C => 192.0.0.0 -> 223.255.255.255 su mascara es: 255.255.255.0 /24
         - Clase D =>
         - Clase E =>
+
+Type 08 significa que el mensaje esta en transito, se relaciona con una solicitud
+type 00 significa que el mensaje ah sido recibido y se envia la respuesta al ser recibida igual
+Type 11 significa que se ha generado un exceso de tiempo en la respuesta y se ha perdido el mensaje 
+
+
+PING -> ICMP 
+
+Protocolo DHCP es un protocolo que funciona para repartir servidores a sus clientes (En el modelo OSI se encuentra en la capa de sesion) 
+  - Cuando el protocolo DHCP falla y no le asigna una direccion IP a un cliente, el sistema operativo asigna automaticamente a ese cliente la direccion IP APIPA 
+  - Genera IPS dinamicas en el servidor, 
+
